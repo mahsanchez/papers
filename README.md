@@ -12,5 +12,6 @@ Purpose: Exploring the idea of Continuos Aggregation and prevent a massive acces
 - Issue the request to load time serie data using The Processing Coherence Incubator Pattern
 - In time series data such as this is to introduce a grouping of time periods into the cluster key (Key Association)
 - Create a Portfolio using Bonds or Equities and run a Historic VAR Simulation with confidence interval of 99%, 500 days of TimeHorizon
+- Implement Stresstesting, Backtesting
 
 # Apache Spark and Oracle Coherence Integration
