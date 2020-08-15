@@ -27,7 +27,7 @@ Study Stochastic PDE, SDE, DE, Direct Delta Functions, Boundary Conditions BVP
 
 Study Direct Delta Functions, Green Functions
 
-Study Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov
+Study Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov (Steven Shreve)
 
 Study Monte Carlo method variance reduction methods
 
