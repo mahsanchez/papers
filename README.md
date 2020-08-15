@@ -27,17 +27,19 @@ Study Stochastic PDE, SDE, DE, Direct Delta Functions, Boundary Conditions BVP
 
 Study Direct Delta Functions, Green Functions
 
+Calculus, Linear Algebra, Statistics, Probability, Statistics (Spivak, Gilbert Strang, Grimmet)
+
 Chebyshev Polynomials and General Numerical analisys (Burden & Feires, Volkov)
 
-Study Measure Theory, Probability Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov (Steven Shreve)
-
-Study Monte Carlo method variance reduction methods
-
-Asyntotic Analysis, Spectral Methods, Topology & Differential Geometry
+Study Measure Theory,Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov (Steven Shreve)
 
 Study Numerical Optimization Techniques (Nocedal)
 
+Asyntotic Analysis, Spectral Methods, Topology & Differential Geometry (Spivak, Gilbert Strang)
+
 Hagan numerical interpolation 
+
+Study Monte Carlo method variance reduction methods
 
 Dive depth on Calibration, Correlation and Volatility
 
