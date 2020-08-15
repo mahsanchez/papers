@@ -49,13 +49,13 @@ Study Monte Carlo method variance reduction methods
 
 Dive depth on Calibration, Correlation and Volatility
 
-Hagan LIBOR Market Model with SABR Volatility
+Hagan LIBOR Market Model with SABR Volatility (HAGAN)
 
 Implement Local Volatility Model, Heston Model and Stochastic Volatility Models (Dupire, Jim Gatheral, Lorenzo Bergomi, Xen Chuli)
 
 Price/Study FX products
 
-Baruch Course on Interest Rate and Credit Models (MTH-9877)
+Baruch Course on Interest Rate and Credit Models (MTH-9877) (Brigo, Rebonato, Pallacini, Hagan)
 
 Price Bermuda Swaptions (Garetek)
 
