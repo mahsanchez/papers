@@ -33,6 +33,8 @@ Study Monte Carlo method variance reduction methods
 
 Chebyshev Polynomios and General Numerical analisys (Burden & Feires, Volkov)
 
+Study Numerical Optimization Techniques (Nocedal)
+
 Hagan numerical interpolation 
 
 Dive depth on Calibration, Correlation and Volatility
@@ -45,16 +47,18 @@ Hagan LIBOR Market Model with SABR Volatility
 
 Implement Local Volatility Model, Heston Model and Stochastic Volatility Models (Dupire, Jim Gatheral, Lorenzo Bergomi, Xen Chuli)
 
-Implement Rough Volatility paper with Deep Learning / Tensor Flow
+Price/Study FX products
 
 Baruch Course on Interest Rate and Credit Models (MTH-9877)
 
-Price Bremuda Swaptions (Garetek)
+Price Bermuda Swaptions (Garetek)
+
+Study Machine Learning and Deep Learning (Christopher Bishop, TEOSTL, Ian Good Fellow, Tensor Flow)
+
+Implement Rough Volatility paper with Deep Learning / Tensor Flow
 
 American Options 
 
 Multi-Asset (rainbow) options
-
-Price FX products
 
 Marginal (MVA), Collateral (XVA)
