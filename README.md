@@ -31,7 +31,7 @@ Chebyshev Polynomials and General Numerical analisys , Numerical Linear Algebra 
 
 Study Stochastic PDE,  DE, Direct Delta Functions, Boundary Conditions BVP (Willmot, Threfethen, Duffy)
 
-Study Measure Theory,Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov (Willmot, Pliska, Steven Shreve)
+Study Measure Theory,Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov (Willmot, Pliska, Steven Shreve, Neftci, Oskendal)
 
 Review Monte Carlo methods in Finance (Jaeckel, Glasserman, Mike Giles)
 
@@ -67,4 +67,4 @@ American Options
 
 Multi-Asset (rainbow) options
 
-Marginal (MVA), Collateral (XVA)
+Marginal (MVA), Collateral, XVA (Green)
