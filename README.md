@@ -51,9 +51,10 @@ Study Monte Carlo method variance reduction methods
 
 Dive depth on Calibration, Correlation and Volatility
 
-Hagan LIBOR Market Model with SABR Volatility (HAGAN)
+Implement Local Volatility Model and Stochastic Volatility Models [Heston Model, SABR Model, CEV Model]
+(Dupire, Jim Gatheral, Lorenzo Bergomi, Xen Chuli)
 
-Implement Local Volatility Model, Heston Model and Stochastic Volatility Models (Dupire, Jim Gatheral, Lorenzo Bergomi, Xen Chuli)
+Hagan LIBOR Market Model with SABR Volatility (HAGAN)
 
 Price/Study FX products
 
