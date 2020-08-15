@@ -43,7 +43,7 @@ Solves PDE numerically using Fourier Transform
 
 Hagan LIBOR Market Model with SABR Volatility
 
-Implement Local Volatility and Stochastic Volatility Models
+Implement Local Volatility and Stochastic Volatility Models (Dupire, Lorenzo Bergomi, Xen Chuli, Gatheral)
 
 Implement Rough Volatility paper with Deep Learning / Tensor Flow
 
