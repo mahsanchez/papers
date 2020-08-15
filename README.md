@@ -45,6 +45,8 @@ Hagan LIBOR Market Model with SABR Volatility
 
 Implement Local Volatility and Stochastic Volatility Models
 
+Implement Rough Volatility paper with Deep Learning / Tensor Flow
+
 Price Bremuda Swaptions (Garetek)
 
 American Options 
