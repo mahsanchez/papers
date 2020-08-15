@@ -23,15 +23,15 @@ Compute Greek computations using AD dco/c++
 
 Acceleration of AD calculation using CUDA/SYCL
 
-Study Stochastic PDE, SDE, DE, Direct Delta Functions, Boundary Conditions BVP
-
 Study Direct Delta Functions, Green Functions
 
 Calculus, Linear Algebra, Statistics, Probability, Statistics (Spivak, Gilbert Strang, Grimmet)
 
-Chebyshev Polynomials and General Numerical analisys (Burden & Feires, Volkov)
+Chebyshev Polynomials and General Numerical analisys , Numerical Linear Algebra (Burden & Feires, Volkov, Threfethen)
 
-Study Measure Theory,Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov (Steven Shreve)
+Study Stochastic PDE,  DE, Direct Delta Functions, Boundary Conditions BVP (Willmot, Threfethen, Duffy)
+
+Study Measure Theory,Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov (Willmot, Pliska, Steven Shreve)
 
 Study Numerical Optimization Techniques (Nocedal)
 
