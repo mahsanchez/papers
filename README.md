@@ -33,6 +33,10 @@ Study Stochastic PDE,  DE, Direct Delta Functions, Boundary Conditions BVP (Will
 
 Study Measure Theory,Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov (Willmot, Pliska, Steven Shreve)
 
+Solves PDE numerically using Finite Differences
+
+Solves PDE numerically using Fourier Transform
+
 Study Numerical Optimization Techniques (Nocedal)
 
 Asyntotic Analysis, Spectral Methods, Topology & Differential Geometry (Spivak, Gilbert Strang)
@@ -42,10 +46,6 @@ Hagan numerical interpolation
 Study Monte Carlo method variance reduction methods
 
 Dive depth on Calibration, Correlation and Volatility
-
-Solves PDE numerically using Finite Differences
-
-Solves PDE numerically using Fourier Transform
 
 Hagan LIBOR Market Model with SABR Volatility
 
