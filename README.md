@@ -23,11 +23,11 @@ Compute Greek computations using AD dco/c++ (Uwe Neumann)
 
 Acceleration of AD calculation using CUDA/SYCL
 
-Study Direct Delta Functions, Green Functions
-
 Calculus, Linear Algebra, Statistics, Probability, Statistics (Spivak, Gilbert Strang, Grimmet)
 
 Chebyshev Polynomials and General Numerical analisys , Numerical Linear Algebra (Burden & Feires, Volkov, Threfethen, Demmel)
+
+Study Direct Delta Functions, Green Functions (Riley, Hobson, Bence)
 
 Study Stochastic PDE,  DE, Direct Delta Functions, Boundary Conditions BVP (Willmot, Threfethen, Duffy)
 
