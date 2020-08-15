@@ -33,6 +33,8 @@ Study Stochastic PDE,  DE, Direct Delta Functions, Boundary Conditions BVP (Will
 
 Study Measure Theory,Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov (Willmot, Pliska, Steven Shreve, Neftci, Oskendal)
 
+Malliavin Calculus
+
 Review Monte Carlo methods in Finance (Jaeckel, Glasserman, Mike Giles)
 
 Solves PDE numerically using Finite Differences
