@@ -19,7 +19,7 @@ Monte Carlo Numerical method acceleration with NVIDIA CUDA (Multiple-GPU)
 
 CVA IRS portfolio P&L distribution and Sensitivities Calculation using Adjoint Differentiation with dco/c++
 
-Compute Greek computations using AD dco/c++
+Compute Greek computations using AD dco/c++ (Uwe Neumann)
 
 Acceleration of AD calculation using CUDA/SYCL
 
@@ -32,6 +32,8 @@ Chebyshev Polynomials and General Numerical analisys , Numerical Linear Algebra 
 Study Stochastic PDE,  DE, Direct Delta Functions, Boundary Conditions BVP (Willmot, Threfethen, Duffy)
 
 Study Measure Theory,Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Girsanov (Willmot, Pliska, Steven Shreve)
+
+Review Monte Carlo methods in Finance (Jaeckel, Glasserman, Mike Giles)
 
 Solves PDE numerically using Finite Differences
 
