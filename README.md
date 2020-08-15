@@ -5,9 +5,9 @@ Done
 
 Implement Monte Carlo Numerical method to solve Stochastic Differential Equations/Simulation problems
 
-CVA IRS portfolio calculation using LMM
+CVA IRS portfolio calculation using LMM model
 
-CVA IRS portfolio calculation using HJM
+CVA IRS portfolio calculation using HJM model
 
 Review NVIDIA Paper on Asian Option Pricing / Monte Carlo / GPU / CURAND
 
@@ -31,11 +31,11 @@ Study Stochastic Calculus, SDE, Martingals Theory, Ito Calculus, Feymann-Kac, Gi
 
 Study Monte Carlo method variance reduction methods
 
-Study Curve Construction for IR products
+Chebyshev Polynomios and General Numerical analisys (Burden & Feires, Volkov)
 
 Hagan numerical interpolation 
 
-Dive depth on Correlation and Volatility
+Dive depth on Calibration, Correlation and Volatility
 
 Solves PDE numerically using Finite Differences
 
@@ -43,9 +43,11 @@ Solves PDE numerically using Fourier Transform
 
 Hagan LIBOR Market Model with SABR Volatility
 
-Implement Local Volatility and Stochastic Volatility Models (Dupire, Lorenzo Bergomi, Xen Chuli, Gatheral)
+Implement Local Volatility Model, Heston Model and Stochastic Volatility Models (Dupire, Jim Gatheral, Lorenzo Bergomi, Xen Chuli)
 
 Implement Rough Volatility paper with Deep Learning / Tensor Flow
+
+Baruch Course on Interest Rate and Credit Models (MTH-9877)
 
 Price Bremuda Swaptions (Garetek)
 
