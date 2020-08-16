@@ -41,13 +41,13 @@ Solves PDE numerically using Finite Differences
 
 Solves PDE numerically using Fourier Transform
 
+Radial Functions Option Pricing, Radial Basis Functions & Fourier Transform (Alonso Pegna)
+
+Hagan numerical interpolation 
+
 Study Numerical Optimization Techniques (Nocedal)
 
 Asyntotic Analysis, Spectral Methods, Topology & Differential Geometry (Spivak, Gilbert Strang)
-
-Radial Functions, Radial Basis Functions & Fourier Transform (Alonso Pegna)
-
-Hagan numerical interpolation 
 
 Study Monte Carlo method variance reduction methods
 
