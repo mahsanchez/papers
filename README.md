@@ -45,6 +45,8 @@ Study Numerical Optimization Techniques (Nocedal)
 
 Asyntotic Analysis, Spectral Methods, Topology & Differential Geometry (Spivak, Gilbert Strang)
 
+Radial Functions, Radial Basis Functions & Fourier Transform (Alonso Pegna)
+
 Hagan numerical interpolation 
 
 Study Monte Carlo method variance reduction methods
