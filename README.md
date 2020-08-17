@@ -1,13 +1,19 @@
 
 Skills Gained (Andrew Green)
 
-Develop a new XVA platform
-CUDA GPU / C++ (11) CPU Hybrid Compute environment
-Grid Computing
-Adjoint Algorithmic Differentiation (AAD): CPU/GPU implementation using NAG dco/dco_map
-Multi-asset platform: IR & FX, later inflation, commodities and equity derivatives
-stochastic volatility modelling, correlation & calibration
-Deep Learning applications in XVA
+1 - Develop a new XVA platform
+
+2 - CUDA GPU / C++ (11) CPU Hybrid Compute environment
+
+3 - Grid Computing
+
+4 - Adjoint Algorithmic Differentiation (AAD): CPU/GPU implementation using NAG dco/dco_map
+
+5 - Multi-asset platform: IR & FX, later inflation, commodities and equity derivatives
+
+6 - stochastic volatility modelling, correlation & calibration
+
+7 - Deep Learning applications in XVA
 
 Done
 
