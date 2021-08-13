@@ -23,13 +23,13 @@ CVA IRS portfolio calculation using LMM model
 
 CVA IRS portfolio calculation using HJM model
 
-Review NVIDIA Paper on Asian Option Pricing / Monte Carlo / GPU / CURAND
-
-TODO
-
 Monte Carlo Numerical method acceleration with NVIDIA CUDA (STREAMS)
 
 Monte Carlo Numerical method acceleration with NVIDIA CUDA (Multiple-GPU)
+
+Review NVIDIA Paper on Asian Option Pricing / Monte Carlo / GPU / CURAND
+
+TODO
 
 CVA IRS portfolio P&L distribution and Sensitivities Calculation using Adjoint Differentiation with dco/c++
 
