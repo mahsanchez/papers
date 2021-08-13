@@ -1,27 +1,11 @@
 
-Skills Gained (Andrew Green)
-
-1 - Develop a new XVA platform
-
-2 - CUDA GPU / C++ (11) CPU Hybrid Compute environment
-
-3 - Grid Computing
-
-4 - Adjoint Algorithmic Differentiation (AAD): CPU/GPU implementation using NAG dco/dco_map
-
-5 - Multi-asset platform: IR & FX, later inflation, commodities and equity derivatives
-
-6 - stochastic volatility modelling, correlation & calibration
-
-7 - Deep Learning applications in XVA
-
 Done
 
 Implement Monte Carlo Numerical method to solve Stochastic Differential Equations/Simulation problems
 
 CVA IRS portfolio calculation using LMM model
 
-CVA IRS portfolio calculation using HJM model
+CVA IRS portfolio calculation using Gaussian HJM model
 
 Monte Carlo Numerical method acceleration with NVIDIA CUDA (STREAMS)
 
@@ -87,3 +71,20 @@ American Options
 Multi-Asset (rainbow) options
 
 Marginal (MVA), Collateral, XVA (Green)
+
+
+Skills Gained (Andrew Green)
+
+1 - Develop a new XVA platform
+
+2 - CUDA GPU / C++ (11) CPU Hybrid Compute environment
+
+3 - Grid Computing
+
+4 - Adjoint Algorithmic Differentiation (AAD): CPU/GPU implementation using NAG dco/dco_map
+
+5 - Multi-asset platform: IR & FX, later inflation, commodities and equity derivatives
+
+6 - stochastic volatility modelling, correlation & calibration
+
+7 - Deep Learning applications in XVA
