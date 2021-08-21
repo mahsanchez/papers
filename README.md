@@ -13,13 +13,15 @@ Monte Carlo Numerical method acceleration with NVIDIA CUDA (Multiple-GPU)
 
 Review NVIDIA Paper on Asian Option Pricing / Monte Carlo / GPU / CURAND
 
-TODO
+NEXT
 
 CVA IRS portfolio P&L distribution and Sensitivities Calculation using Adjoint Differentiation with dco/c++
 
+TODO
+
 Compute Greek computations using AD dco/c++ (Uwe Neumann)
 
-Acceleration of AD calculation using CUDA/SYCL
+Acceleration of AD calculation using CUDA/SYCL and LLVM
 
 Calculus, Linear Algebra, Statistics, Probability, Statistics (Spivak, Gilbert Strang, Grimmet)
 
