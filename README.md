@@ -17,6 +17,8 @@ NEXT
 
 CVA IRS portfolio P&L distribution and Sensitivities Calculation using Adjoint Differentiation with dco/c++
 
+Finish Nth to Default Credit Default Swap Basket C++ Implementation
+
 TODO
 
 Compute Greek computations using AD dco/c++ (Uwe Neumann)
