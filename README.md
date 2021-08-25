@@ -15,7 +15,15 @@ Review NVIDIA Paper on Asian Option Pricing / Monte Carlo / GPU / CURAND
 
 NEXT
 
-CVA IRS portfolio P&L distribution and Sensitivities Calculation using Adjoint Differentiation with dco/c++
+CVA IRS portfolio Sensitivities Calculation using AD with dco/c++
+
+Monte Carlo Predictor Corrector
+
+Monte Carlo Variance Reduction Importance Sampling
+
+Monte Carlo Variance Reduction Control Variate
+
+Monte Carlo test different Random Numbers
 
 Finish Nth to Default Credit Default Swap Basket C++20 Implementation
 
