@@ -34,6 +34,16 @@ sudo vi /etc/influxdb/influxdb.conf
     # generic template for driver and executor sources
     "username.applicationid.process.namespace.measurement*" ]
     
+    Spark Metrics Properties
+    
+    *.sink.graphite.class=org.apache.spark.metrics.sink.GraphiteSink
+*.sink.graphite.host=<graphiteEndPoint_influxDB_hostName>
+*.sink.graphite.port=<listening_port> # must match influxDB configuration file
+*.sink.graphite.period=10   # Configurable
+*.sink.graphite.unit=seconds
+*.sink.graphite.prefix=lucatest # Optional value/label
+*.source.jvm.class=org.apache.spark.metrics.source.JvmSource # Optional JVM metrics
+    
 Grafana (listen on port 3000)
 https://grafana.com/ 
 
