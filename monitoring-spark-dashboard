@@ -62,3 +62,9 @@ Grafana - Create a data source to connect to InfluxDB.
     Set the InfluxDB database name: default is graphite (no password)
 
 Add Your DataSource to InfluxDB
+
+
+export SPARK_HOME=/home/bluefish/dscience/spark-3.3.1-bin-hadoop3
+
+$SPARK_HOME/bin/spark-submit --class org.apache.spark.examples.SparkPi --master spark://bluefish:7077  --driver-memory 512m --executor-memory 512m --executor-cores 4 $SPARK_HOME/examples/jars/spark-examples_2.12-3.3.1.jar  10000
+
